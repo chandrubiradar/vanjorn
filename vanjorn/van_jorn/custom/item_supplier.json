@@ -1,0 +1,31 @@
+{
+ "custom_fields": [],
+ "custom_perms": [],
+ "doctype": "Item Supplier",
+ "property_setters": [
+  {
+   "_assign": null,
+   "_comments": null,
+   "_liked_by": null,
+   "_user_tags": null,
+   "creation": "2020-12-12 11:19:51.812858",
+   "default_value": null,
+   "doc_type": "Item Supplier",
+   "docstatus": 0,
+   "doctype_or_field": "DocType",
+   "field_name": null,
+   "idx": 0,
+   "modified": "2020-12-12 11:19:51.812858",
+   "modified_by": "Administrator",
+   "name": "Item Supplier-read_only_onload",
+   "owner": "Administrator",
+   "parent": null,
+   "parentfield": null,
+   "parenttype": null,
+   "property": "read_only_onload",
+   "property_type": "Check",
+   "value": null
+  }
+ ],
+ "sync_on_migrate": 1
+}

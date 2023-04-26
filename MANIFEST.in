@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include vanjorn *.css
+recursive-include vanjorn *.csv
+recursive-include vanjorn *.html
+recursive-include vanjorn *.ico
+recursive-include vanjorn *.js
+recursive-include vanjorn *.json
+recursive-include vanjorn *.md
+recursive-include vanjorn *.png
+recursive-include vanjorn *.py
+recursive-include vanjorn *.svg
+recursive-include vanjorn *.txt
+recursive-exclude vanjorn *.pyc
